@@ -32,4 +32,4 @@ This page will contain all earning features like staking, farming, etc. We have 
 ## Profile
 This page contains your balance, portfolio, deposit, and withdraw function
 
-![](/images/earning.png) 
+![](/images/profile.png) 
