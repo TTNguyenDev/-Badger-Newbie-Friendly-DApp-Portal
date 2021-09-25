@@ -1,6 +1,7 @@
 ## Newbie Friendly DApp Portal
 
-<b>Description:</b> Defi portals have a ton of complexity and information that is displayed for users, some of which is too much for a new or average user. This can be intimidating and cause reduction in conversion rates. BadgerDAO’s product vision is to have a “Newbie Friendly” one click deposit and earn function that “just works”
+### Design: https://www.figma.com/file/FBVS49AoCHIdvWBIhB0fkF/Untitled?node-id=2%3A59477
+<b>Description:</b> Defi portals have a ton of complexity and information that is displayed for users, some of which is too much for a new or average user. This can be intimidating and cause reduction in conversion rates. BadgerDAO?s product vision is to have a ?Newbie Friendly? one click deposit and earn function that ?just works?
 
 This bounty is a design bounty to deliver a mock up of a Badger Lite app that has the option to deposit directly into 2 options, one that receives a lower ROI but is compounded in strictly bitcoin (ibBTC), the other receiving a higher ROI and receiving partner tokens / badger as emissions (badger tricrypto vault).
 
@@ -31,4 +32,4 @@ This page will contain all earning features like staking, farming, etc. We have 
 ## Profile
 This page contains your balance, portfolio, deposit, and withdraw function
 
-![](/images/earning.png) -Badger-Newbie-Friendly-DApp-Portal
+![](/images/earning.png) 
